@@ -1,0 +1,40 @@
+@import "../../assets/styles/variables";
+
+.position-static {
+  position: static !important;
+}
+.position-relative {
+  position: relative;
+}
+
+.text-sm-left {
+  @media (min-width: $screen-sm) {
+    text-align: left !important;
+  }
+}
+
+.mt-15 {
+  margin-top: 15px !important;
+}
+
+.mt-sm-0 {
+  @media (min-width: $screen-sm) {
+    margin-top: 0 !important;
+  }
+}
+
+h2 {
+  font-weight: 300;
+  font-stretch: normal;
+}
+
+.btn {
+  border-radius: 3px;
+  border: none;
+  font-size: 14px;
+  padding: 18px 36px;
+}
+
+.form-control {
+  box-shadow: none;
+}

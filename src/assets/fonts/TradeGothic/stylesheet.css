@@ -1,0 +1,176 @@
+@font-face {
+    font-family: 'Trade Gothic LT Std';
+    src: url('TradeGothicLTStd-Extended.eot');
+    src: url('TradeGothicLTStd-Extended.eot?#iefix') format('embedded-opentype'),
+    url('TradeGothicLTStd-Extended.woff2') format('woff2'),
+    url('TradeGothicLTStd-Extended.woff') format('woff'),
+    url('TradeGothicLTStd-Extended.ttf') format('truetype'),
+    url('TradeGothicLTStd-Extended.svg#TradeGothicLTStd-Extended') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Trade Gothic LT Std';
+    src: url('TradeGothicLTStd-Bd2.eot');
+    src: url('TradeGothicLTStd-Bd2.eot?#iefix') format('embedded-opentype'),
+    url('TradeGothicLTStd-Bd2.woff2') format('woff2'),
+    url('TradeGothicLTStd-Bd2.woff') format('woff'),
+    url('TradeGothicLTStd-Bd2.ttf') format('truetype'),
+    url('TradeGothicLTStd-Bd2.svg#TradeGothicLTStd-Bd2') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Trade Gothic LT Std';
+    src: url('TradeGothicLTStd-LightObl.eot');
+    src: url('TradeGothicLTStd-LightObl.eot?#iefix') format('embedded-opentype'),
+    url('TradeGothicLTStd-LightObl.woff2') format('woff2'),
+    url('TradeGothicLTStd-LightObl.woff') format('woff'),
+    url('TradeGothicLTStd-LightObl.ttf') format('truetype'),
+    url('TradeGothicLTStd-LightObl.svg#TradeGothicLTStd-LightObl') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Trade Gothic LT Std';
+    src: url('TradeGothicLTStd-Light.eot');
+    src: url('TradeGothicLTStd-Light.eot?#iefix') format('embedded-opentype'),
+    url('TradeGothicLTStd-Light.woff2') format('woff2'),
+    url('TradeGothicLTStd-Light.woff') format('woff'),
+    url('TradeGothicLTStd-Light.ttf') format('truetype'),
+    url('TradeGothicLTStd-Light.svg#TradeGothicLTStd-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Trade Gothic LT Std';
+    src: url('TradeGothicLTStd.eot');
+    src: url('TradeGothicLTStd.eot?#iefix') format('embedded-opentype'),
+    url('TradeGothicLTStd.woff2') format('woff2'),
+    url('TradeGothicLTStd.woff') format('woff'),
+    url('TradeGothicLTStd.ttf') format('truetype'),
+    url('TradeGothicLTStd.svg#TradeGothicLTStd') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Trade Gothic LT Std';
+    src: url('TradeGothicLTStd-Cn18Obl.eot');
+    src: url('TradeGothicLTStd-Cn18Obl.eot?#iefix') format('embedded-opentype'),
+    url('TradeGothicLTStd-Cn18Obl.woff2') format('woff2'),
+    url('TradeGothicLTStd-Cn18Obl.woff') format('woff'),
+    url('TradeGothicLTStd-Cn18Obl.ttf') format('truetype'),
+    url('TradeGothicLTStd-Cn18Obl.svg#TradeGothicLTStd-Cn18Obl') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Trade Gothic LT Std';
+    src: url('TradeGothicLTStd-BdCn20Obl.eot');
+    src: url('TradeGothicLTStd-BdCn20Obl.eot?#iefix') format('embedded-opentype'),
+    url('TradeGothicLTStd-BdCn20Obl.woff2') format('woff2'),
+    url('TradeGothicLTStd-BdCn20Obl.woff') format('woff'),
+    url('TradeGothicLTStd-BdCn20Obl.ttf') format('truetype'),
+    url('TradeGothicLTStd-BdCn20Obl.svg#TradeGothicLTStd-BdCn20Obl') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Trade Gothic LT Std';
+    src: url("https://fast.fonts.net/dv2/14/1ba28851-f34b-4cb8-bf58-6a4b160ba249.woff2?d44f19a684109620e484157ea190e818a1262f6e443e6f7727eff29296a213834bd53f71c48d745b4ddb04ac6cf15fdbade51b8b1edc140db7520f4e709d06d72f9c156bbfa2f797d9d3e86bab8569cafc2460ca078bde42b233024e4964801313b9273a1cc2596a769b165db273a2e199661b84e69f62b4977a9110cb35d447fed9ac7d8d5bde3610471f4326860d698f8942047b3dbcb1d4aac107b32abaed89a99cac0bc51667045f2c1ca2f2f9d5&projectId=096d7ce8-105d-48dd-80cc-d903a7c2bb9b") format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: condensed;
+}
+
+@font-face {
+    font-family: 'Trade Gothic LT Std';
+    src: url('TradeGothicLTStd-Obl.eot');
+    src: url('TradeGothicLTStd-Obl.eot?#iefix') format('embedded-opentype'),
+    url('TradeGothicLTStd-Obl.woff2') format('woff2'),
+    url('TradeGothicLTStd-Obl.woff') format('woff'),
+    url('TradeGothicLTStd-Obl.ttf') format('truetype'),
+    url('TradeGothicLTStd-Obl.svg#TradeGothicLTStd-Obl') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Trade Gothic LT Std';
+    src: url('TradeGothicLTStd-Bd2Obl.eot');
+    src: url('TradeGothicLTStd-Bd2Obl.eot?#iefix') format('embedded-opentype'),
+    url('TradeGothicLTStd-Bd2Obl.woff2') format('woff2'),
+    url('TradeGothicLTStd-Bd2Obl.woff') format('woff'),
+    url('TradeGothicLTStd-Bd2Obl.ttf') format('truetype'),
+    url('TradeGothicLTStd-Bd2Obl.svg#TradeGothicLTStd-Bd2Obl') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Trade Gothic LT Std';
+    src: url('TradeGothicLTStd-BoldExt.eot');
+    src: url('TradeGothicLTStd-BoldExt.eot?#iefix') format('embedded-opentype'),
+    url('TradeGothicLTStd-BoldExt.woff2') format('woff2'),
+    url('TradeGothicLTStd-BoldExt.woff') format('woff'),
+    url('TradeGothicLTStd-BoldExt.ttf') format('truetype'),
+    url('TradeGothicLTStd-BoldExt.svg#TradeGothicLTStd-BoldExt') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Trade Gothic LT Std';
+    src: url('TradeGothicLTStd-Bold.eot');
+    src: url('TradeGothicLTStd-Bold.eot?#iefix') format('embedded-opentype'),
+    url('TradeGothicLTStd-Bold.woff2') format('woff2'),
+    url('TradeGothicLTStd-Bold.woff') format('woff'),
+    url('TradeGothicLTStd-Bold.ttf') format('truetype'),
+    url('TradeGothicLTStd-Bold.svg#TradeGothicLTStd-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Trade Gothic LT Std';
+    src: url('TradeGothicLTStd-Cn18.eot');
+    src: url('TradeGothicLTStd-Cn18.eot?#iefix') format('embedded-opentype'),
+    url('TradeGothicLTStd-Cn18.woff2') format('woff2'),
+    url('TradeGothicLTStd-Cn18.woff') format('woff'),
+    url('TradeGothicLTStd-Cn18.ttf') format('truetype'),
+    url('TradeGothicLTStd-Cn18.svg#TradeGothicLTStd-Cn18') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Trade Gothic LT Std';
+    src: url('TradeGothicLTStd-BdCn20.eot');
+    src: url('TradeGothicLTStd-BdCn20.eot?#iefix') format('embedded-opentype'),
+    url('TradeGothicLTStd-BdCn20.woff2') format('woff2'),
+    url('TradeGothicLTStd-BdCn20.woff') format('woff'),
+    url('TradeGothicLTStd-BdCn20.ttf') format('truetype'),
+    url('TradeGothicLTStd-BdCn20.svg#TradeGothicLTStd-BdCn20') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Trade Gothic LT Std';
+    src: url('TradeGothicLTStd-BoldObl.eot');
+    src: url('TradeGothicLTStd-BoldObl.eot?#iefix') format('embedded-opentype'),
+    url('TradeGothicLTStd-BoldObl.woff2') format('woff2'),
+    url('TradeGothicLTStd-BoldObl.woff') format('woff'),
+    url('TradeGothicLTStd-BoldObl.ttf') format('truetype'),
+    url('TradeGothicLTStd-BoldObl.svg#TradeGothicLTStd-BoldObl') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+

@@ -1,0 +1,10 @@
+<html>
+<head>
+    <title><%= CONF.description %></title>
+</head>
+<body class="<%= IS_DEV ? 'bg-black' : '' %>">
+<div class="main-wrapper">
+    <%= require('html-loader?interpolate!./partials/header/header.html') %>
+</div>
+</body>
+</html>
