@@ -236,7 +236,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 50px;
+  width: 70px;
   height: 50px;
   background-color: transparent;
   color: #fff;
@@ -306,10 +306,8 @@
   border: none;
   z-index: 100;
   outline: none;
-  flex-direction: column;
-  justify-content: space-between;
   align-items: center;
-  padding: 7px;
+  padding: 0;
   border-radius: 0;
   line-height: 1;
 }
