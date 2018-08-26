@@ -4,7 +4,7 @@ module.exports = {
   BASE_URL: 'https://www.visitomaha.com',
   title: Pkg.name,
   description: Pkg.description,
-  prefix: 'vomh',
+  prefix: 'vohm',
   paths: {
     nodePath: 'node_modules',
     src: 'src',

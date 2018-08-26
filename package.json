@@ -1,12 +1,12 @@
 {
-  "name": "vomh-header",
+  "name": "vohm-header",
   "version": "1.0.0",
   "description": "Do More - Save More Passport...",
   "authors": [
     "levon@21joint.com"
   ],
   "license": "MIT",
-  "homepage": "https://21joint.github.io/vomh-header/",
+  "homepage": "https://21joint.github.io/vohm-header/",
   "scripts": {
     "dev": "cross-env NODE_ENV=dev webpack-dev-server --progress --mode development --config webpack.config.dev.js",
     "build": "webpack -p --progress --mode production --config webpack.config.build.js",
